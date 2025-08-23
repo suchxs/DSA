@@ -1,5 +1,5 @@
-Pls let me pass DSA <br>
-*Completed and Ongoing Projects Will be Listed here in order of upload date*
+A Man can be destroyed but not defeated 🌸<br>
+*Projects below*
 ---
 1.) TBD
 ---
