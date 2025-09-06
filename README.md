@@ -1,7 +1,15 @@
-<h1> A Man can be destroyed but not defeated 🌸 </h1>
+<div align="center">
+  <h1> A Man can be destroyed but not defeated 🌸 </h1>
+  <h3> All Files are Coded in C but have a cpp file extension, because I code in Visual Studio</h3>
+  <img src="./images/iwannacry.gif" alt="fuckthissub" width="600">
+</div>
+
+# Table of Contents
+
+## Section 1
 1.) linkedlist.cpp (8/28/25) - Linked List Recap <br>
-2.) Stack.cpp (9/5/25) - Stack and Queue Implementation
 
+## Section 2
+
+## Section 3
 ---
-
-<img src="./images/iwannacry.gif" alt="fuckthissub" width="600">
