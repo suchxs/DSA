@@ -7,7 +7,10 @@
 # Table of Contents
 
 ## Section 1
-1.) linkedlist.cpp (8/28/25) - Linked List Recap <br>
+- linkedlist.cpp (8/28/25) - Linked List Recap <br>
+- stack.cpp (9/11/25) - Stack Data Structure
+- Queue.cpp (9/11/25) - Queue Data Structure
+- CircularQueue.cpp (9/11/25) - Circular Queue Implementation
 
 ## Section 2
 
