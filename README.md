@@ -15,4 +15,11 @@
 ## Section 2
 
 ## Section 3
+
+
+
+## Credit
+- University of Waterloo DSA PPts
+- University of San Carlos (Various professors) ppt and activities
+- To be added
 ---
