@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#define VHSIZE 0XA
+#define VHSIZE 0XA // 10 in Decimal
 
 typedef struct {
     int data;
