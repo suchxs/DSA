@@ -59,5 +59,6 @@
 - [University of Waterloo](https://ece.uwaterloo.ca/~dwharder/aads/Lecture_materials/) - My Previous DSA lecture Notes and ppts
 - [Stanford University Data Structures](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1262/) - Supplemental Ppts and Notes
 - [MIT Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - Really Good Additional pdfs
+- [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - Good Resources
 - University of San Carlos (Ms Christine Pena && Ms Janie Sabado) ppt and activities
 ---
