@@ -6,6 +6,8 @@
 
 # Table of Contents
 
+[Reviewer](https://github.com/suchxs/DSAPrac) included with some cool questions (DSAPrac.exe), try using it :)
+
 ## Section 1
 1. **Abstract Data Type (ADT)**
 
@@ -55,6 +57,7 @@
 
 
 ## Credit
+- [DSAPrac](https://github.com/suchxs/DSAPrac) - Reviewer the I wrote in C# to simulate exams
 - [Zeus Elderfield](https://github.com/elderfieldzeus) - Most of the Resources
 - [University of Waterloo](https://ece.uwaterloo.ca/~dwharder/aads/Lecture_materials/) - My Previous DSA lecture Notes and ppts
 - [Stanford University Data Structures](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1262/) - Supplemental Ppts and Notes
